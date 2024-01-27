@@ -1,0 +1,4 @@
+# given income
+income = 5000
+tax_payable = 0
+print ("INCOME": income)
